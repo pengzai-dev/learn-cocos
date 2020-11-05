@@ -2,7 +2,7 @@
 
 ## 相关链接
 
-演示代码：[https://github.com/pengzai-dev/cocos-study](https://github.com/pengzai-dev/cocos-study)
+演示代码：[https://github.com/pengzai-dev/learn-cocos](https://github.com/pengzai-dev/learn-cocos)
 
 素材：[https://1drv.ms/u/s!AtxiWOsSipM5lBqYkqXM248XUC6g?e=H6aCxB](https://1drv.ms/u/s!AtxiWOsSipM5lBqYkqXM248XUC6g?e=H6aCxB)
 
